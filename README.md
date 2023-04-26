@@ -16,8 +16,6 @@ Skills: JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdanamulhasan201&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdanamulhasan201)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdanamulhasan201)  
 
 ![Profile views](https://gpvc.arturio.dev/mdanamulhasan201)  
