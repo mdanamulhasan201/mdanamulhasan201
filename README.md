@@ -1,6 +1,9 @@
 ### Hi there 👋, my name is Md. Anamul Hasan
-#### I am Web Developer
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+#### I'm Mern Stack Developer
+I am a talented web developer based in Bangladesh, specializing in mern stack development. My passion for web development stems from the opportunity it provides to express my creativity. I am dedicated to continuously improving my skills and strive to become a highly skilled and sought-after web developer. 
+Currently, I am pursuing a degree in Computer Science and Engineering at Daffodil International University. I am eager to connect with professionals in the industry who can contribute to my personal and professional growth. I am open to exciting opportunities and collaborations that can further enhance my expertise.
+
+Thank you
 
 Skills: HTML / CSS / Tailwind / Bootstrap / JS / React / React Routing /
 
