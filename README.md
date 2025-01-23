@@ -10,12 +10,11 @@ Skills: HTML / CSS / Tailwind / Bootstrap / JS / React / React Routing / Node.JS
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdanamulhasan201)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdanamulhasan201&show_icons=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mdanamulhasan201&theme=tokyonight&cache_seconds=0)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mdanamulhasan201&theme=tokyonight)
 
-![Profile views](https://gpvc.arturio.dev/mdanamulhasan201?cache_seconds=0)
+![Profile views](https://gpvc.arturio.dev/mdanamulhasan201)
 
