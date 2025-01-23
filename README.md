@@ -15,6 +15,7 @@ Skills: HTML / CSS / Tailwind / Bootstrap / JS / React / React Routing / Node.JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdanamulhasan201&show_icons=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mdanamulhasan201&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mdanamulhasan201&theme=tokyonight&cache_seconds=0)
 
-![Profile views](https://gpvc.arturio.dev/mdanamulhasan201)  
+![Profile views](https://gpvc.arturio.dev/mdanamulhasan201?cache_seconds=0)
+
