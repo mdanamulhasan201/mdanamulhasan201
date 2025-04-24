@@ -18,3 +18,7 @@ Skills: HTML / CSS / Tailwind / Bootstrap / JS / React / React Routing / Node.JS
 
 ![Profile views](https://gpvc.arturio.dev/mdanamulhasan201)
 
+### 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
