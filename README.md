@@ -1,24 +1,38 @@
-### Hi there 👋, My name is Md. Anamul Hasan
-I am a talented web developer based in Bangladesh, specializing in front-end development. My passion for web development stems from the opportunity it provides to express my creativity. I am dedicated to continuously improving my skills and strive to become a highly skilled and sought-after web developer. 
-Currently, I am pursuing a degree in Computer Science and Engineering at Daffodil International University. I am eager to connect with professionals in the industry who can contribute to my personal and professional growth. I am open to exciting opportunities and collaborations that can further enhance my expertise.
+### Hi there 👋, I'm Md. Anamul Hasan
 
-Thank you
+I’m a passionate **Frontend Web Developer** from **Bangladesh**. I love turning ideas into real-world web interfaces that are fast, responsive, and user-friendly.
 
-Skills: HTML / CSS / Tailwind / Bootstrap / JS / React / React Routing / Node.JS / Express.JS / MongoDB / MY SQL / Next.js /
+🎓 Currently pursuing a degree in **Computer Science & Engineering** at **Daffodil International University**.
 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
+I’m constantly improving my skills and am always open to learning and collaborating with others.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdanamulhasan201)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdanamulhasan201&show_icons=true&count_private=true)
+### 🚀 Skills
+HTML | CSS | Tailwind | Bootstrap | JavaScript | React | React Router | Node.js | Express.js | MongoDB | MySQL | Next.js
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mdanamulhasan201&theme=tokyonight)
+---
+
+- 🌱 Currently learning: **Advanced JavaScript**
+- 👯 Looking to collaborate on: **Open Source Projects on GitHub**
+- 💬 Ask me about: **Frontend Development & MERN Stack**
+- 📫 How to reach me: [LinkedIn](#) | [Email](#)
+
+---
+
+### 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdanamulhasan201&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdanamulhasan201&show_icons=true&count_private=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mdanamulhasan201&theme=tokyonight)
 
 ![Profile views](https://gpvc.arturio.dev/mdanamulhasan201)
 
-### 📊 Weekly Development Breakdown
+---
+
+### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
