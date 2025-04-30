@@ -9,14 +9,14 @@ I’m constantly improving my skills and am always open to learning and collabor
 ---
 
 ### 🚀 Skills
-HTML | CSS | Tailwind | Bootstrap | JavaScript | React | React Router | Node.js | Express.js | MongoDB | MySQL | Next.js
+HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Express.js | MongoDB | MySQL 
 
 ---
 
 - 🌱 Currently learning: **Advanced JavaScript**
 - 👯 Looking to collaborate on: **Open Source Projects on GitHub**
 - 💬 Ask me about: **Frontend Development & MERN Stack**
-- 📫 How to reach me: [LinkedIn](#) | [Email](#)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mdanamulhasan201) | [Email](mailto:anamulhasan3625@gmail.com)
 
 ---
 
