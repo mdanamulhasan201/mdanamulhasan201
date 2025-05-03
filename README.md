@@ -35,7 +35,7 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-105-blue)
 
@@ -43,7 +43,7 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 715 Contributions in the Year 2025
+> 🏆 730 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,14 +78,14 @@ Sunday                   580 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               24 hrs 31 mins      ███████████████░░░░░░░░░░   59.10 % 
-JavaScript               13 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   31.70 % 
-JSON                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-CSS                      1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-Bash                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+TypeScript               29 hrs 1 min        ████████████████░░░░░░░░░   62.87 % 
+JavaScript               13 hrs 10 mins      ███████░░░░░░░░░░░░░░░░░░   28.53 % 
+JSON                     2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+CSS                      1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Bash                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 💻 Operating System: 
-Windows                  41 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  46 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,5 +104,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mdanamulhasan201/mdanamulhasan201/main/assets/bar_graph.png)
 
 
- Last Updated on 03/05/2025 18:29:04 UTC
+ Last Updated on 03/05/2025 19:17:12 UTC
 <!--END_SECTION:waka-->
