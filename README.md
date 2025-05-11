@@ -35,7 +35,7 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
 
@@ -54,9 +54,9 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1005 commits        ███████░░░░░░░░░░░░░░░░░░   28.10 % 
-🌆 Daytime                1657 commits        ████████████░░░░░░░░░░░░░   46.32 % 
-🌃 Evening                696 commits         █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+🌞 Morning                1005 commits        ███████░░░░░░░░░░░░░░░░░░   28.09 % 
+🌆 Daytime                1658 commits        ████████████░░░░░░░░░░░░░   46.34 % 
+🌃 Evening                696 commits         █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
 🌙 Night                  219 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -67,8 +67,8 @@ Tuesday                  498 commits         ███░░░░░░░░�
 Wednesday                567 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
 Thursday                 528 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
 Friday                   301 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Saturday                 554 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Sunday                   591 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Saturday                 554 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Sunday                   592 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
 ```
 
 
@@ -104,5 +104,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mdanamulhasan201/mdanamulhasan201/main/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2025 07:21:09 UTC
+ Last Updated on 11/05/2025 08:27:56 UTC
 <!--END_SECTION:waka-->
