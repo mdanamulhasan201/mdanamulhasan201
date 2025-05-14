@@ -35,15 +35,15 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 808 Contributions in the Year 2025
+> 🏆 809 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,5 +104,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mdanamulhasan201/mdanamulhasan201/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2025 08:32:09 UTC
+ Last Updated on 14/05/2025 09:26:32 UTC
 <!--END_SECTION:waka-->
