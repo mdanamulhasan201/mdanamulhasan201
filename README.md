@@ -35,13 +35,15 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 1,091 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,16 +54,16 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1195 commits        ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-🌆 Daytime                1985 commits        ████████████░░░░░░░░░░░░░   48.45 % 
-🌃 Evening                698 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-🌙 Night                  219 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+🌞 Morning                1195 commits        ███████░░░░░░░░░░░░░░░░░░   29.16 % 
+🌆 Daytime                1985 commits        ████████████░░░░░░░░░░░░░   48.44 % 
+🌃 Evening                699 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+🌙 Night                  219 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   608 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Tuesday                  562 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Tuesday                  563 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 Wednesday                681 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
 Thursday                 627 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
 Friday                   315 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
@@ -102,5 +104,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mdanamulhasan201/mdanamulhasan201/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2025 12:50:03 UTC
+ Last Updated on 17/06/2025 13:36:23 UTC
 <!--END_SECTION:waka-->
