@@ -35,7 +35,7 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-354%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-354%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,8 +54,8 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1384 commits        ████████░░░░░░░░░░░░░░░░░   30.39 % 
-🌆 Daytime                2231 commits        ████████████░░░░░░░░░░░░░   48.99 % 
+🌞 Morning                1384 commits        ████████░░░░░░░░░░░░░░░░░   30.38 % 
+🌆 Daytime                2232 commits        ████████████░░░░░░░░░░░░░   49.00 % 
 🌃 Evening                720 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
 🌙 Night                  219 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 ```
@@ -68,7 +68,7 @@ Wednesday                768 commits         ████░░░░░░░�
 Thursday                 731 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
 Friday                   315 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 Saturday                 716 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Sunday                   760 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Sunday                   761 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
 ```
 
 
@@ -104,5 +104,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mdanamulhasan201/mdanamulhasan201/main/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2025 08:29:18 UTC
+ Last Updated on 29/06/2025 09:23:52 UTC
 <!--END_SECTION:waka-->
