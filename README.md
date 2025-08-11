@@ -35,7 +35,7 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,43 +51,6 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1645 commits        ████████░░░░░░░░░░░░░░░░░   30.64 % 
-🌆 Daytime                2617 commits        ████████████░░░░░░░░░░░░░   48.75 % 
-🌃 Evening                842 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-🌙 Night                  264 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   756 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Tuesday                  741 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Wednesday                927 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Thursday                 863 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Friday                   389 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Saturday                 821 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Sunday                   871 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-TypeScript               24 hrs 46 mins      ████████████████████░░░░░   79.88 % 
-JSON                     3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-JavaScript               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-HTML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-Bash                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-
-💻 Operating System: 
-Windows                  31 hrs              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -104,5 +67,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mdanamulhasan201/mdanamulhasan201/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2025 18:38:10 UTC
+ Last Updated on 11/08/2025 19:22:14 UTC
 <!--END_SECTION:waka-->
