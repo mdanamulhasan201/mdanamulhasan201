@@ -43,6 +43,8 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 1,563 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 66 Public Repositories 
@@ -102,5 +104,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mdanamulhasan201/mdanamulhasan201/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2025 21:21:22 UTC
+ Last Updated on 29/08/2025 22:21:36 UTC
 <!--END_SECTION:waka-->
