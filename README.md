@@ -35,15 +35,13 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-662%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-663%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 1,638 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,17 +52,17 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1747 commits        ████████░░░░░░░░░░░░░░░░░   31.06 % 
-🌆 Daytime                2764 commits        ████████████░░░░░░░░░░░░░   49.15 % 
-🌃 Evening                849 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+🌞 Morning                1748 commits        ████████░░░░░░░░░░░░░░░░░   31.08 % 
+🌆 Daytime                2764 commits        ████████████░░░░░░░░░░░░░   49.14 % 
+🌃 Evening                849 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
 🌙 Night                  264 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   800 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Tuesday                  771 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Wednesday                966 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Tuesday                  772 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Wednesday                966 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
 Thursday                 887 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
 Friday                   404 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 Saturday                 877 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
@@ -104,5 +102,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mdanamulhasan201/mdanamulhasan201/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2025 03:05:18 UTC
+ Last Updated on 09/09/2025 04:28:49 UTC
 <!--END_SECTION:waka-->
