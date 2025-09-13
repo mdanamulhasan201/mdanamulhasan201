@@ -35,13 +35,15 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-675%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-675%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 1,653 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,8 +54,8 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1753 commits        ████████░░░░░░░░░░░░░░░░░   31.10 % 
-🌆 Daytime                2771 commits        ████████████░░░░░░░░░░░░░   49.16 % 
+🌞 Morning                1754 commits        ████████░░░░░░░░░░░░░░░░░   31.11 % 
+🌆 Daytime                2771 commits        ████████████░░░░░░░░░░░░░   49.15 % 
 🌃 Evening                849 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
 🌙 Night                  264 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 ```
@@ -63,9 +65,9 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 Monday                   800 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
 Tuesday                  778 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
 Wednesday                972 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Thursday                 887 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Thursday                 887 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
 Friday                   404 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Saturday                 877 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Saturday                 878 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
 Sunday                   919 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
 ```
 
@@ -102,5 +104,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mdanamulhasan201/mdanamulhasan201/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2025 01:28:59 UTC
+ Last Updated on 13/09/2025 02:52:19 UTC
 <!--END_SECTION:waka-->
