@@ -35,7 +35,7 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-867%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-868%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -91,10 +91,10 @@ Windows                  44 hrs 42 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               60 repos            ████████████░░░░░░░░░░░░░   48.78 % 
-TypeScript               40 repos            ████████░░░░░░░░░░░░░░░░░   32.52 % 
-HTML                     21 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+JavaScript               60 repos            ████████████░░░░░░░░░░░░░   48.39 % 
+TypeScript               40 repos            ████████░░░░░░░░░░░░░░░░░   32.26 % 
+HTML                     21 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 ```
 
 
@@ -104,5 +104,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mdanamulhasan201/mdanamulhasan201/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2025 02:59:26 UTC
+ Last Updated on 18/10/2025 03:33:19 UTC
 <!--END_SECTION:waka-->
