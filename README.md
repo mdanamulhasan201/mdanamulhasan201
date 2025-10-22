@@ -35,7 +35,7 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-883%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -78,14 +78,14 @@ Sunday                   967 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               31 hrs 4 mins       ███████████████████████░░   90.54 % 
-JavaScript               2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Bash                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+TypeScript               31 hrs 29 mins      ██████████████████████░░░   87.08 % 
+JavaScript               2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Bash                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Python                   28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 💻 Operating System: 
-Windows                  34 hrs 19 mins      █████████████████████████   100.00 % 
+Windows                  36 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,5 +104,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mdanamulhasan201/mdanamulhasan201/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2025 19:19:33 UTC
+ Last Updated on 22/10/2025 20:28:28 UTC
 <!--END_SECTION:waka-->
