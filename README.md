@@ -43,7 +43,7 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 2,872 Contributions in the Year 2025
+> 🏆 2,873 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,10 +91,10 @@ Windows                  41 hrs 16 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               61 repos            ████████████░░░░░░░░░░░░░   46.21 % 
-TypeScript               48 repos            █████████░░░░░░░░░░░░░░░░   36.36 % 
-HTML                     21 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+JavaScript               61 repos            ███████████░░░░░░░░░░░░░░   45.86 % 
+TypeScript               49 repos            █████████░░░░░░░░░░░░░░░░   36.84 % 
+HTML                     21 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 ```
 
 
@@ -104,5 +104,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mdanamulhasan201/mdanamulhasan201/main/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2025 15:23:19 UTC
+ Last Updated on 07/12/2025 16:29:25 UTC
 <!--END_SECTION:waka-->
