@@ -35,7 +35,7 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C098%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C098%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -54,9 +54,9 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2148 commits        ████████░░░░░░░░░░░░░░░░░   31.07 % 
-🌆 Daytime                3612 commits        █████████████░░░░░░░░░░░░   52.24 % 
-🌃 Evening                881 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+🌞 Morning                2148 commits        ████████░░░░░░░░░░░░░░░░░   31.06 % 
+🌆 Daytime                3612 commits        █████████████░░░░░░░░░░░░   52.23 % 
+🌃 Evening                882 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
 🌙 Night                  273 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -64,10 +64,10 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 ```text
 Monday                   1016 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
 Tuesday                  991 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Wednesday                1164 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Wednesday                1164 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
 Thursday                 1083 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Friday                   479 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Saturday                 1041 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Friday                   480 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Saturday                 1041 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
 Sunday                   1140 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
 ```
 
@@ -104,5 +104,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mdanamulhasan201/mdanamulhasan201/main/assets/bar_graph.png)
 
 
- Last Updated on 12/12/2025 16:33:42 UTC
+ Last Updated on 12/12/2025 17:25:51 UTC
 <!--END_SECTION:waka-->
