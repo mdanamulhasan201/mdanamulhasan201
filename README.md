@@ -35,13 +35,15 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 2,965 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,14 +78,14 @@ Sunday                   1147 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               9 hrs 21 mins       ██████████████████████░░░   89.12 % 
-CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+TypeScript               8 hrs 36 mins       ██████████████████████░░░   88.82 % 
+CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Windows                  10 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -102,5 +104,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mdanamulhasan201/mdanamulhasan201/main/assets/bar_graph.png)
 
 
- Last Updated on 16/12/2025 18:40:34 UTC
+ Last Updated on 16/12/2025 19:25:36 UTC
 <!--END_SECTION:waka-->
