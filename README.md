@@ -35,7 +35,7 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C115%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C118%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -43,7 +43,7 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 2,978 Contributions in the Year 2025
+> 🏆 2,981 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,14 +78,14 @@ Sunday                   1147 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               15 hrs 23 mins      ███████████████████░░░░░░   75.74 % 
-JavaScript               2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Bash                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+TypeScript               14 hrs 49 mins      ███████████████████░░░░░░   74.41 % 
+JavaScript               2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Bash                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 💻 Operating System: 
-Windows                  20 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,5 +104,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mdanamulhasan201/mdanamulhasan201/main/assets/bar_graph.png)
 
 
- Last Updated on 19/12/2025 18:38:00 UTC
+ Last Updated on 19/12/2025 19:23:03 UTC
 <!--END_SECTION:waka-->
