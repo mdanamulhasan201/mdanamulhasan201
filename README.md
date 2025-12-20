@@ -35,7 +35,7 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C121%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C121%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -43,7 +43,7 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 3,024 Contributions in the Year 2025
+> 🏆 2,986 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,10 +91,10 @@ Windows                  19 hrs 56 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               61 repos            ███████████░░░░░░░░░░░░░░   45.86 % 
-TypeScript               49 repos            █████████░░░░░░░░░░░░░░░░   36.84 % 
-HTML                     21 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+JavaScript               61 repos            ███████████░░░░░░░░░░░░░░   45.52 % 
+TypeScript               50 repos            █████████░░░░░░░░░░░░░░░░   37.31 % 
+HTML                     21 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
 
 
@@ -104,5 +104,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mdanamulhasan201/mdanamulhasan201/main/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2025 08:32:54 UTC
+ Last Updated on 20/12/2025 09:25:53 UTC
 <!--END_SECTION:waka-->
