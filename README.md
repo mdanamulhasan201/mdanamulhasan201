@@ -78,12 +78,10 @@ Sunday                   1526 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               41 mins             █████████████░░░░░░░░░░░░   52.82 % 
-Bash                     28 mins             █████████░░░░░░░░░░░░░░░░   36.20 % 
-JSON                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -102,5 +100,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mdanamulhasan201/mdanamulhasan201/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2026 18:40:58 UTC
+ Last Updated on 09/01/2026 19:25:58 UTC
 <!--END_SECTION:waka-->
