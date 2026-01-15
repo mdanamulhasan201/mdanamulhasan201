@@ -47,7 +47,7 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 67 Public Repositories 
+> 📜 66 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -100,5 +100,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mdanamulhasan201/mdanamulhasan201/main/assets/bar_graph.png)
 
 
- Last Updated on 15/01/2026 12:57:03 UTC
+ Last Updated on 15/01/2026 13:45:50 UTC
 <!--END_SECTION:waka-->
