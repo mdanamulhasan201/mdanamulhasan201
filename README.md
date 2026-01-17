@@ -35,7 +35,7 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C144%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C150%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -43,7 +43,7 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 57 Contributions in the Year 2026
+> 🏆 55 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,21 +54,21 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2976 commits        ████████░░░░░░░░░░░░░░░░░   31.15 % 
-🌆 Daytime                5176 commits        ██████████████░░░░░░░░░░░   54.17 % 
+🌞 Morning                2976 commits        ████████░░░░░░░░░░░░░░░░░   31.14 % 
+🌆 Daytime                5176 commits        ██████████████░░░░░░░░░░░   54.16 % 
 🌃 Evening                1097 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-🌙 Night                  306 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+🌙 Night                  307 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1343 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Monday                   1343 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
 Tuesday                  1230 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
 Wednesday                1684 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Thursday                 1667 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Thursday                 1667 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
 Friday                   544 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 Saturday                 1415 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Sunday                   1672 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Sunday                   1673 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
 ```
 
 
@@ -78,10 +78,14 @@ Sunday                   1672 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 40 mins       █████████████░░░░░░░░░░░░   53.95 % 
+JavaScript               1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   31.11 % 
+Bash                     43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -100,5 +104,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mdanamulhasan201/mdanamulhasan201/main/assets/bar_graph.png)
 
 
- Last Updated on 17/01/2026 18:37:01 UTC
+ Last Updated on 17/01/2026 19:21:02 UTC
 <!--END_SECTION:waka-->
