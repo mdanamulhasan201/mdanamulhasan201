@@ -35,9 +35,9 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C156%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C161%20hrs%2036%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -78,14 +78,14 @@ Sunday                   1678 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               8 hrs 54 mins       ████████████████████░░░░░   79.23 % 
-JavaScript               1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Bash                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TypeScript               14 hrs 18 mins      █████████████████████░░░░   85.38 % 
+JavaScript               1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  11 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,5 +104,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mdanamulhasan201/mdanamulhasan201/main/assets/bar_graph.png)
 
 
- Last Updated on 20/01/2026 18:45:54 UTC
+ Last Updated on 20/01/2026 20:17:48 UTC
 <!--END_SECTION:waka-->
