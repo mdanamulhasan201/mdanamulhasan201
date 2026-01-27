@@ -43,7 +43,7 @@ HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Node.js | Exp
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 99 Contributions in the Year 2026
+> 🏆 101 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,13 +78,12 @@ Sunday                   1949 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               16 hrs 8 mins       ███████████████████████░░   91.86 % 
-JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+TypeScript               10 hrs 44 mins      ██████████████████████░░░   89.10 % 
+JSON                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 💻 Operating System: 
-Windows                  17 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -103,5 +102,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mdanamulhasan201/mdanamulhasan201/main/assets/bar_graph.png)
 
 
- Last Updated on 27/01/2026 18:47:45 UTC
+ Last Updated on 27/01/2026 19:33:49 UTC
 <!--END_SECTION:waka-->
