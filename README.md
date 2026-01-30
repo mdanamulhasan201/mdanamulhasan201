@@ -78,11 +78,11 @@ Sunday                   1950 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               6 hrs 45 mins       ██████████████████████░░░   87.83 % 
-JSON                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+TypeScript               2 hrs 19 mins       ███████████████████░░░░░░   77.37 % 
+JSON                     40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
 
 💻 Operating System: 
-Windows                  7 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -101,5 +101,5 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mdanamulhasan201/mdanamulhasan201/main/assets/bar_graph.png)
 
 
- Last Updated on 30/01/2026 18:52:47 UTC
+ Last Updated on 30/01/2026 19:38:29 UTC
 <!--END_SECTION:waka-->
