@@ -92,14 +92,14 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               66 repos            ███████████░░░░░░░░░░░░░░   42.04 % 
-JavaScript               65 repos            ██████████░░░░░░░░░░░░░░░   41.40 % 
-HTML                     22 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+JavaScript               66 repos            ██████████░░░░░░░░░░░░░░░   41.77 % 
+TypeScript               66 repos            ██████████░░░░░░░░░░░░░░░   41.77 % 
+HTML                     22 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 
 
@@ -109,5 +109,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mdanamulhasan201/mdanamulhasan201/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 23:00:59 UTC
+ Last Updated on 27/08/2026 04:31:36 UTC
 <!--END_SECTION:waka-->
